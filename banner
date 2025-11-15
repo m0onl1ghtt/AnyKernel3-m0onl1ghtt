@@ -1,0 +1,15 @@
+  ____ ___  _________  
+_/ __ \\  \/  /\____ \  made by @nguyencaoantuong
+\  ___/ >    < |  |_> > =====
+ \___  >__/\_ \|   __/  experience.
+     \/      \/|__|   
+ > KernelSU variant: 
+ > KernelSU Manager supported: 
+ > SELinux: 
+ > SusFS: 
+ > kernel source: nguyencaoantuong/experience on codeberg.org
+ > thanks:
+ - fukiame: improve kernel source
+ - msan: commit manual hook
+ - Renia: help me for hook min scope
+ - slm slm
