@@ -1,15 +1,16 @@
-  ____ ___  _________  
-_/ __ \\  \/  /\____ \  made by @nguyencaoantuong
-\  ___/ >    < |  |_> > =====
- \___  >__/\_ \|   __/  experience.
-     \/      \/|__|   
- > KernelSU variant: 
- > KernelSU Manager supported: 
- > SELinux: 
- > SusFS: 
- > kernel source: nguyencaoantuong/experience on codeberg.org
+                        ___      __   __ 
+  __ _  ___  ___  ___  / (_)__ _/ /  / /_
+ /  ' \/ _ \/ _ \/ _ \/ / / _ `/ _ \/ __/
+/_/_/_/\___/\___/_//_/_/_/\_, /_//_/\__/ 
+                         /___/                   
+======
+ > KernelSU variant: KernelSU Next
+ > KernelSU Manager supported: KernelSU Next (no spoofed)
+ > SELinux: Enforcing
+ > SusFS: No
+ > kernel source: nguyencaoantuong/Moonlight-kernel on GitHub
  > thanks:
- - fukiame: improve kernel source
+ - Luminous418: EroFS kernel source
  - msan: commit manual hook
  - Renia: help me for hook min scope
  - slm slm
